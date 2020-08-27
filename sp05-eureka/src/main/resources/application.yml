@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: eureka
+server:
+  port: 2001
+eureka:
+  server:
+    enable-self-preservation: false #�رձ���
+  instance:
+    hostname: eureka1 #��Ⱥ����hostname�����ַ�����
+  client:
+    register-with-eureka: false  #��̨�����������Լ�ע��
+    fetch-registry: false  # �����������Լ���ȡ

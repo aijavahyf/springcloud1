@@ -1,0 +1,9 @@
+
+eureka:
+  instance:
+    hostname: eureka1 #��Ⱥ����hostname�����ַ�����
+  client:
+    register-with-eureka: true  #��̨�����������Լ�ע��
+    fetch-registry: true  # �����������Լ���ȡ
+    service-url:
+      defaultZone: http://eureka2:2002/eureka  #eureka2启动时向eureka1注册

@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="userservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="sp03-userservice" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp03.Sp03UserserviceApplication" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/sp03-userservice" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
