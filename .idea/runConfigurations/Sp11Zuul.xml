@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Sp11Zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="sp11-zuul" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp11.Sp11ZuulApplication" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/sp11-zuul" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

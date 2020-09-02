@@ -1,7 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="orderservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <configuration default="false" name="orderservice-8201" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <module name="sp04-orderservice" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp04.Sp04OrderserviceApplication" />
+    <option name="PROGRAM_PARAMETERS" value="--server.port=8201" />
     <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/sp04-orderservice" />
     <option name="ALTERNATIVE_JRE_PATH" />
     <method v="2">

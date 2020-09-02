@@ -13,3 +13,18 @@ eureka:
 ribbon:
   MaxAutoRetriesNextServer: 2
   MaxAutoRetries: 1
+
+#默认超时就是一秒  可以不用配置  应该和ribbon配合设置  时长应该大于ribbon的超时时长
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1000
+#  actuator暴漏监控数据
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
