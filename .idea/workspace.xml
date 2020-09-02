@@ -2,137 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0875cde-a34f-4510-959f-349b23a1037c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_turbine_turbine_core_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_turbine_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_turbine_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Sp08HystrixDashboard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Sp09Turbine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Sp11Zuul.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/feign/ItemFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/feign/ItemFeignClientFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/feign/UserFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/feign/UserFeignClientFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/src/main/java/cn/tedu/sp08/Sp08HystrixDashboardApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp08-hystrix-dashboard/src/test/java/cn/tedu/sp08/Sp08HystrixDashboardApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/Sp09FeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/controller/FiegnController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/ItemFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/ItemFeignClientFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/OrderFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/OrderFeignClientFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/UserFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/java/cn/tedu/sp09/feign/UserFeignClientFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-feign/src/test/java/cn/tedu/sp09/Sp09FeignApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/src/main/java/cn/tedu/sp09/Sp09TurbineApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp09-turbine/src/test/java/cn/tedu/sp09/Sp09TurbineApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/main/java/cn/tedu/sp11/Sp11ZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/main/java/cn/tedu/sp11/fallback/ItemFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/main/java/cn/tedu/sp11/fallback/OrderFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/main/java/cn/tedu/sp11/filter/AcessFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp11-zuul/src/test/java/cn/tedu/sp11/Sp11ZuulApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/item-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/order-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/user-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/zuul-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/orderservice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/orderservice_8201.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp02-itemservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp02-itemservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp04-orderservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/Sp04OrderserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/Sp04OrderserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp02-itemservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp02-itemservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp03-userservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp03-userservice/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sp04-orderservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp06-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp06-ribbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp06-ribbon/src/main/java/cn/tedu/sp06/Sp06RibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp06-ribbon/src/main/java/cn/tedu/sp06/Sp06RibbonApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp06-ribbon/src/main/java/cn/tedu/sp06/controller/RibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp06-ribbon/src/main/java/cn/tedu/sp06/controller/RibbonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp06-ribbon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp06-ribbon/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp11-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp11-zuul/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +67,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -201,6 +81,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\taren\CGB-WHT\springcloud1\config" />
       <recent name="D:\taren\CGB-WHT\springcloud1\sp05-eureka\src\main\resources" />
     </key>
   </component>
@@ -261,6 +142,7 @@
       <workItem from="1598662843349" duration="14305000" />
       <workItem from="1598835544599" duration="14481000" />
       <workItem from="1598923818902" duration="10026000" />
+      <workItem from="1599031778380" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="无底洞">
       <created>1598514523751</created>
@@ -313,10 +195,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="915" y="190" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598514523036" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1598924262235">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1599032175947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598924262235" />
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599032175947" />
     <state x="1156" y="529" key="Gitee.ShareDialog" timestamp="1598514428737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -365,14 +247,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="111" width="998" height="739" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598839256187" />
-    <state x="357" y="132" key="new project wizard" timestamp="1598924017720">
+    <state x="357" y="132" key="new project wizard" timestamp="1599031868349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="357" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598924017720" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598940375082">
+    <state x="357" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599031868349" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599033045177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598940375082" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599033045177" />
     <state x="1147" y="420" key="svn.repositoryBrowser" timestamp="1598514416360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
